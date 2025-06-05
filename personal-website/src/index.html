@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Website</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-title">My Personal Website</div>
+        <ul>
+            <li><a href="#" class="active" onclick="showSection('introduction', event)">Self-Introduction</a></li>
+            <li><a href="#" onclick="showSection('research', event)">Research & Interests</a></li>
+            <li><a href="#" onclick="showSection('publications', event)">Publications</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="introduction" class="content-section active">
+            <h2>Self-Introduction</h2>
+            <p>Hello! I am [Your Name], a [Your Profession/Field] with a passion for [Your Interests]. I have a background in [Your Background] and I am currently working on [Your Current Work].</p>
+        </section>
+        <section id="research" class="content-section">
+            <h2>Research & Interests</h2>
+            <ul>
+                <li>[Research Interest 1]</li>
+                <li>[Research Interest 2]</li>
+                <li>[Research Interest 3]</li>
+            </ul>
+        </section>
+        <section id="publications" class="content-section">
+            <h2>Publications</h2>
+            <ul>
+                <li>[Publication Title 1] - [Publication Details]</li>
+                <li>[Publication Title 2] - [Publication Details]</li>
+                <li>[Publication Title 3] - [Publication Details]</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 [Your Name]. All rights reserved.</p>
+    </footer>
+    <script>
+        function showSection(id, event) {
+            if(event) event.preventDefault();
+            document.querySelectorAll('.content-section').forEach(sec => sec.classList.remove('active'));
+            document.getElementById(id).classList.add('active');
+            document.querySelectorAll('.navbar a').forEach(a => a.classList.remove('active'));
+            if(id === 'introduction') document.querySelectorAll('.navbar a')[0].classList.add('active');
+            if(id === 'research') document.querySelectorAll('.navbar a')[1].classList.add('active');
+            if(id === 'publications') document.querySelectorAll('.navbar a')[2].classList.add('active');
+        }
+    </script>
+</body>
+</html>

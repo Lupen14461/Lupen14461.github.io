@@ -1,0 +1,85 @@
+
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80') no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+/* 顶部导航栏 */
+.navbar {
+    width: 100%;
+    background: rgba(44, 62, 80, 0.95);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2em;
+    height: 60px;
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+.nav-title {
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.navbar ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.navbar li {
+    margin-right: 2em;
+}
+.navbar li:last-child {
+    margin-right: 0;
+}
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.1em;
+    padding: 8px 0;
+    border-bottom: 2px solid transparent;
+    transition: border 0.2s;
+}
+.navbar a.active, .navbar a:hover {
+    border-bottom: 2px solid #f9d342;
+}
+
+
+.content-section {
+    display: none;
+    max-width: 800px;
+    margin: 100px auto 2em auto;
+    background: rgba(255,255,255,0.92);
+    padding: 2em 2.5em;
+    border-radius: 10px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+}
+.content-section.active {
+    display: block;
+}
+
+h2 {
+    color: #35424a;
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background: rgba(44, 62, 80, 0.95);
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    z-index: 100;
+}
