@@ -4,9 +4,9 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-# Hobbies
+# Hobbies 兴趣爱好
 
-## Sports
+## Sports 运动
 
 <!-- Add your sports activities here:
 
@@ -23,7 +23,7 @@ title: Hobbies
 
 ---
 
-## Creative Activities
+## Creative Activities 创意活动
 
 <!-- Add creative hobbies:
 
@@ -45,7 +45,7 @@ title: Hobbies
 
 ---
 
-## Technology & Making
+## Technology & Making 技术与制作
 
 <!-- Add tech-related hobbies:
 
@@ -63,7 +63,7 @@ title: Hobbies
 
 ---
 
-## Intellectual Pursuits
+## Intellectual Pursuits 智力追求
 
 <!-- Add intellectual hobbies:
 
@@ -85,7 +85,7 @@ title: Hobbies
 
 ---
 
-## Social Activities
+## Social Activities 社交活动
 
 <!-- Add social hobbies:
 
