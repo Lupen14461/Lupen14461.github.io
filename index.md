@@ -4,8 +4,7 @@ layout: page
 
 # About Me
 
-<!-- <img src="/images/your-photo.jpg" class="floatpic" width="360" height="480"> -->
-<!-- Uncomment above line and add your photo to images/ folder -->
+<img src="/images/head.jpg" class="floatpic">
 
 Here is **Sicheng Tian**.
 

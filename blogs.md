@@ -6,8 +6,35 @@ title: Blogs
 
 # Blogs
 
-<style>
-.blog-f## Categor## Category Filters
+## Category Filters
+
+<div class="blog-filters">
+    <a href="#all" onclick="showAll()">📝 All</a>
+    <a href="#diary" onclick="filterCategory('diary')">📔 Diary</a>
+    <a href="#course" onclick="filterCategory('course')">📚 Courses</a>
+    <a href="#research" onclick="filterCategory('research')">🔬 Research</a>
+    <a href="#tech" onclick="filterCategory('tech')">💻 Tech</a>
+    <a href="#life" onclick="filterCategory('life')">🌱 Life</a>
+</div>
+
+<script>
+function showAll() {
+    document.querySelectorAll('.blog-post').forEach(post => {
+        post.style.display = 'block';
+    });
+}
+
+function filterCategory(category) {
+    document.querySelectorAll('.blog-post').forEach(post => {
+        const postCategory = post.getAttribute('data-category');
+        if (postCategory === category) {
+            post.style.display = 'block';
+        } else {
+            post.style.display = 'none';
+        }
+    });
+}
+</script>
 
 <div class="blog-filters">
     <div class="filter-buttons">

@@ -1,0 +1,52 @@
+/* Simple Clean Theme for Sicheng Tian's Website */
+
+/* Just fix the avatar proportions */
+.floatpic {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+/* Simple blog filter styling */
+.blog-filters {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.blog-filters a {
+    display: inline-block;
+    margin: 5px;
+    padding: 8px 15px;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+}
+
+.blog-filters a:hover {
+    background-color: #f0f0f0;
+}
+
+/* Simple blog post styling */
+.blog-post {
+    margin: 20px 0;
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+.post-meta {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.tag {
+    display: inline-block;
+    background: #f0f0f0;
+    padding: 3px 8px;
+    margin: 2px;
+    border-radius: 10px;
+    font-size: 12px;
+}
