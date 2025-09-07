@@ -1,0 +1,190 @@
+/* Blogs页面专用样式 - 匹配暗色主题 */
+
+/* 分类筛选器 */
+.blog-filters {
+    background: rgba(0, 0, 0, 0.3) !important;
+    padding: 25px !important;
+    border-radius: 15px !important;
+    margin-bottom: 40px !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+/* 筛选按钮容器 */
+.filter-buttons {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 15px !important;
+    justify-content: center !important;
+}
+
+/* 筛选按钮样式 */
+.filter-btn {
+    background: rgba(100, 181, 246, 0.1) !important;
+    color: #90caf9 !important;
+    padding: 12px 24px !important;
+    border-radius: 25px !important;
+    text-decoration: none !important;
+    font-weight: 500 !important;
+    transition: all 0.3s ease !important;
+    border: 1px solid rgba(100, 181, 246, 0.3) !important;
+    font-size: 14px !important;
+}
+
+.filter-btn:hover {
+    background: rgba(100, 181, 246, 0.2) !important;
+    color: #64b5f6 !important;
+    transform: translateY(-2px) !important;
+    box-shadow: 0 5px 15px rgba(100, 181, 246, 0.3) !important;
+}
+
+.filter-btn.active {
+    background: linear-gradient(45deg, #64b5f6, #42a5f5) !important;
+    color: white !important;
+    box-shadow: 0 5px 15px rgba(100, 181, 246, 0.4) !important;
+}
+
+/* 博客文章卡片 */
+.blog-post {
+    background: rgba(0, 0, 0, 0.2) !important;
+    padding: 25px !important;
+    margin-bottom: 25px !important;
+    border-radius: 12px !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    transition: all 0.3s ease !important;
+}
+
+.blog-post:hover {
+    transform: translateY(-3px) !important;
+    box-shadow: 0 8px 25px rgba(100, 181, 246, 0.2) !important;
+    border-color: rgba(100, 181, 246, 0.3) !important;
+}
+
+/* 文章元信息 */
+.post-meta {
+    color: #90a4ae !important;
+    font-size: 14px !important;
+    margin-bottom: 10px !important;
+    font-weight: 500 !important;
+}
+
+/* 文章标题 */
+.post-title {
+    margin: 15px 0 !important;
+}
+
+.post-title a {
+    color: #90caf9 !important;
+    text-decoration: none !important;
+    font-size: 1.3em !important;
+    font-weight: 600 !important;
+    transition: color 0.3s ease !important;
+}
+
+.post-title a:hover {
+    color: #64b5f6 !important;
+}
+
+/* 文章摘要 */
+.post-summary {
+    color: #cfd8dc !important;
+    line-height: 1.6 !important;
+    margin-bottom: 15px !important;
+}
+
+/* 标签样式 */
+.post-tags {
+    margin-top: 15px !important;
+}
+
+.tag {
+    background: rgba(100, 181, 246, 0.2) !important;
+    color: #64b5f6 !important;
+    padding: 4px 12px !important;
+    border-radius: 15px !important;
+    font-size: 12px !important;
+    margin: 2px !important;
+    display: inline-block !important;
+}
+
+/* 分类标题样式 */
+h2, h3, h4 {
+    color: #ffffff !important;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 2.2em !important;
+    background: linear-gradient(45deg, #4facfe, #00f2fe);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+h3 {
+    font-size: 1.6em !important;
+    color: #e0e0e0 !important;
+}
+
+h4 {
+    font-size: 1.3em !important;
+    color: #c0c0c0 !important;
+}
+
+/* 分类描述文字 */
+p {
+    color: #b0b0b0 !important;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* 链接样式 */
+a {
+    color: #4facfe !important;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #00f2fe !important;
+    text-decoration: none;
+}
+
+/* 列表样式 */
+ul li {
+    color: #c0c0c0 !important;
+    margin-bottom: 8px;
+}
+
+ul li a {
+    color: #4facfe !important;
+}
+
+ul li a:hover {
+    color: #00f2fe !important;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .filter-buttons {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .filter-btn {
+        min-width: auto;
+        width: 100%;
+        margin-bottom: 8px;
+    }
+    
+    h1 {
+        font-size: 2.2em !important;
+    }
+    
+    .content {
+        padding: 20px;
+        margin: 10px 0;
+    }
+}
