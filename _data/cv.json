@@ -1,152 +1,122 @@
-{
+﻿{
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Sicheng Tian",
+    "email": "sichengtian00@gmail.com",
+    "phone": "+49 15758227316",
+    "website": "https://Lupen14461.github.io",
+    "summary": "M.Sc. student in Photonics at Abbe School of Photonics, University of Jena. Research interests: optical microscopy, computational imaging, and photonics.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Jena",
+      "countryCode": "DE",
+      "region": "Thuringia"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Lupen14461",
+        "url": "https://github.com/Lupen14461"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Leibniz Institute of Photonic Technology (IPHT), Microscopy Dept.",
+      "position": "Research Assistant - Live-Cell Imaging of F-Actin by Polarization Fluorescence Microscopy",
+      "location": "Jena, Germany",
+      "startDate": "2026-05",
+      "endDate": "Present",
+      "summary": "Supervised by Prof. Dr. Rainer Heintzmann and Dr. Daniela Taeuber. Conducting literature review and familiarising with the 2DPOLIM live-cell imaging platform."
+    },
+    {
+      "company": "Leibniz Institute of Photonic Technology (IPHT), Microscopy Dept.",
+      "position": "Research Assistant - Mid-IR Spectroscopic Imaging of RPE Granules",
+      "location": "Jena, Germany",
+      "startDate": "2025-09",
+      "endDate": "2026-04",
+      "summary": "Supervised by Prof. Dr. Rainer Heintzmann and Dr. Daniela Taeuber. Funded by DFG. Acquired hyperspectral data via PiF-IR (~5 nm spatial resolution); applied PCA for chemical heterogeneity analysis. Poster at DPG Spring Meeting 2026, Dresden."
+    },
+    {
+      "company": "Leibniz Institute of Photonic Technology (IPHT), Quantum Detection Dept.",
+      "position": "Research Assistant - MAGIC NOR Logic Gate Based on BFO Memristors",
+      "location": "Jena, Germany",
+      "startDate": "2024-01",
+      "endDate": "2025-09",
+      "summary": "Supervised by Prof. Dr. Heidemarie Krueger and Dr. Nan Du. Implemented and verified a NOR logic gate under the MAGIC architecture using BiFeO3 memristors. Data acquisition and analysis with Python."
+    },
+    {
+      "company": "Wuhan National Laboratory for Optoelectronics",
+      "position": "Bachelor Thesis - Deep Learning for Alzheimer's Disease Classification",
+      "location": "Wuhan, China",
+      "startDate": "2020-05",
+      "endDate": "2021-05",
+      "summary": "Supervised by Prof. Haimin Luo. Incorporated CSF biomarker data into a multimodal neural network; MLP-based fusion achieved improvements in accuracy and sensitivity over the baseline model."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Abbe School of Photonics, University of Jena",
+      "area": "M.Sc. in Photonics",
+      "studyType": "M.Sc.",
+      "startDate": "2022-09",
+      "endDate": "2026-11",
       "gpa": null,
-      "courses": []
+      "courses": ["Modern Optics", "Introduction to Optical Modeling", "Laser Physics", "Optoelectronics", "Optical Metrology & Sensing"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "University of Chinese Academy of Sciences",
+      "area": "M.Sc. Coursework in Microelectronics",
+      "studyType": "M.Sc. Coursework",
+      "startDate": "2021-09",
+      "endDate": "2022-08",
       "gpa": null,
-      "courses": []
+      "courses": ["Sensor & Applications", "Semiconductor Photonics", "Physics of Semiconductor Devices"]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Huazhong University of Science and Technology",
+      "area": "B.Eng. in Biomedical Engineering",
+      "studyType": "B.Eng.",
+      "startDate": "2017-09",
+      "endDate": "2021-06",
       "gpa": null,
-      "courses": []
+      "courses": ["Biomedical Photonics", "Medical Imaging Systems", "Data Structures & Computer Systems", "Fundamentals of Machine Learning"]
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": ["Python", "data processing", "image analysis"]
+    },
+    {
+      "name": "Optics",
+      "level": "",
+      "keywords": ["Zemax (learning)", "metasurface-based imaging", "computational imaging"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional proficiency (IELTS 7.0)"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    }
+  ],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
+  "publications": [],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Mid-IR Spectroscopic Imaging of RPE Granules",
+      "event": "DPG Spring Meeting 2026",
+      "date": "2026-03",
+      "location": "Dresden, Germany",
+      "description": "Poster presentation on hyperspectral PiF-IR imaging and PCA analysis of melanosome surfaces."
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "teaching": [],
+  "portfolio": []
 }
