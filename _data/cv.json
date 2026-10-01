@@ -1,8 +1,8 @@
-﻿{
+{
   "basics": {
     "name": "Sicheng Tian",
     "email": "sichengtian00@gmail.com",
-    "phone": "+49 15758227316",
+    "phone": "",
     "website": "https://Lupen14461.github.io",
     "summary": "M.Sc. student in Photonics at Abbe School of Photonics, University of Jena. Research interests: optical microscopy, computational imaging, and photonics.",
     "location": {
@@ -35,7 +35,7 @@
       "location": "Jena, Germany",
       "startDate": "2025-09",
       "endDate": "2026-04",
-      "summary": "Supervised by Prof. Dr. Rainer Heintzmann and Dr. Daniela Taeuber. Funded by DFG. Acquired hyperspectral data via PiF-IR (~5 nm spatial resolution); applied PCA for chemical heterogeneity analysis. Poster at DPG Spring Meeting 2026, Dresden."
+      "summary": "PiF-IR measurement and PCA-based analysis of RPE granules with team guidance. 5 nm/pixel describes sampling, not validated resolution."
     },
     {
       "company": "Leibniz Institute of Photonic Technology (IPHT), Quantum Detection Dept.",
@@ -43,7 +43,7 @@
       "location": "Jena, Germany",
       "startDate": "2024-01",
       "endDate": "2025-09",
-      "summary": "Supervised by Prof. Dr. Heidemarie Krueger and Dr. Nan Du. Implemented and verified a NOR logic gate under the MAGIC architecture using BiFeO3 memristors. Data acquisition and analysis with Python."
+      "summary": "Research training in BiFeO3 memristor measurements, MAGIC NOR logic experiments, endurance and retention testing."
     },
     {
       "company": "Wuhan National Laboratory for Optoelectronics",
@@ -57,12 +57,18 @@
   "education": [
     {
       "institution": "Abbe School of Photonics, University of Jena",
-      "area": "M.Sc. in Photonics",
+      "area": "Photonics — in progress, expected early 2027",
       "studyType": "M.Sc.",
       "startDate": "2022-09",
-      "endDate": "2026-11",
+      "endDate": "",
       "gpa": null,
-      "courses": ["Modern Optics", "Introduction to Optical Modeling", "Laser Physics", "Optoelectronics", "Optical Metrology & Sensing"]
+      "courses": [
+        "Modern Optics",
+        "Introduction to Optical Modeling",
+        "Laser Physics",
+        "Optoelectronics",
+        "Optical Metrology & Sensing"
+      ]
     },
     {
       "institution": "University of Chinese Academy of Sciences",
@@ -71,7 +77,11 @@
       "startDate": "2021-09",
       "endDate": "2022-08",
       "gpa": null,
-      "courses": ["Sensor & Applications", "Semiconductor Photonics", "Physics of Semiconductor Devices"]
+      "courses": [
+        "Sensor & Applications",
+        "Semiconductor Photonics",
+        "Physics of Semiconductor Devices"
+      ]
     },
     {
       "institution": "Huazhong University of Science and Technology",
@@ -80,19 +90,32 @@
       "startDate": "2017-09",
       "endDate": "2021-06",
       "gpa": null,
-      "courses": ["Biomedical Photonics", "Medical Imaging Systems", "Data Structures & Computer Systems", "Fundamentals of Machine Learning"]
+      "courses": [
+        "Biomedical Photonics",
+        "Medical Imaging Systems",
+        "Data Structures & Computer Systems",
+        "Fundamentals of Machine Learning"
+      ]
     }
   ],
   "skills": [
     {
       "name": "Programming",
       "level": "",
-      "keywords": ["Python", "data processing", "image analysis"]
+      "keywords": [
+        "Python",
+        "data processing",
+        "image analysis"
+      ]
     },
     {
       "name": "Optics",
       "level": "",
-      "keywords": ["Zemax (learning)", "metasurface-based imaging", "computational imaging"]
+      "keywords": [
+        "Zemax (learning)",
+        "metasurface-based imaging",
+        "computational imaging"
+      ]
     }
   ],
   "languages": [
@@ -108,15 +131,7 @@
   "interests": [],
   "references": [],
   "publications": [],
-  "presentations": [
-    {
-      "name": "Mid-IR Spectroscopic Imaging of RPE Granules",
-      "event": "DPG Spring Meeting 2026",
-      "date": "2026-03",
-      "location": "Dresden, Germany",
-      "description": "Poster presentation on hyperspectral PiF-IR imaging and PCA analysis of melanosome surfaces."
-    }
-  ],
+  "presentations": [],
   "teaching": [],
   "portfolio": []
 }

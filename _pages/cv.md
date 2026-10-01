@@ -1,75 +1,39 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+## Education
 
-{% include base_path %}
+**M.Sc. in Photonics — in progress, expected early 2027**  
+Abbe School of Photonics, University of Jena, Germany · September 2022–present.
 
-Education
-======
-* M.Sc. in Photonics (expected Nov. 2026), Abbe School of Photonics, University of Jena, Germany (Sep 2022 – Present)
-  * Courses: Modern Optics, Introduction to Optical Modeling, Laser Physics, Optoelectronics, Optical Metrology & Sensing
-* M.Sc. Coursework in Microelectronics, University of Chinese Academy of Sciences, Beijing, China (Sep 2021 – Aug 2022)
-  * Courses: Sensor & Applications, Semiconductor Photonics, Physics of Semiconductor Devices
-  * Transferred to FSU Jena via the joint programme between CIOMP (CAS) and Abbe School of Photonics
-* B.Eng. in Biomedical Engineering, Huazhong University of Science and Technology, Wuhan, China (Sep 2017 – Jun 2021)
-  * Courses: Biomedical Photonics, Medical Imaging Systems, Data Structures & Computer Systems, Fundamentals of Machine Learning
+**Graduate coursework in Microelectronics — degree not completed**  
+University of Chinese Academy of Sciences, China · September 2021–August 2022. Subsequently transferred to Jena.
 
-Research Experience
-======
-* **Live-Cell Imaging of F-Actin by Polarization Fluorescence Microscopy** (May 2026 – Present)
-  * Leibniz Institute of Photonic Technology (IPHT), Microscopy Dept., Jena, Germany
-  * Supervised by Prof. Dr. Rainer Heintzmann and Dr. Daniela Täuber
-  * Ongoing project; currently conducting literature review and familiarising with the 2DPOLIM live-cell imaging platform
+**B.Eng. in Biomedical Engineering**  
+Huazhong University of Science and Technology, China · September 2017–June 2021.
 
-* **Mid-IR Spectroscopic Imaging of RPE Granules** (Sep 2025 – Apr 2026)
-  * Leibniz Institute of Photonic Technology (IPHT), Microscopy Dept., Jena, Germany
-  * Supervised by Prof. Dr. Rainer Heintzmann and Dr. Daniela Täuber
-  * Funded by the German Research Foundation (DFG)
-  * Acquired hyperspectral data (~5 nm spatial resolution) via PiF-IR, surpassing the resolution limit of conventional FTIR
-  * Applied PCA to visualise chemical heterogeneity on melanosome surfaces
-  * Results presented as a poster at DPG Spring Meeting 2026, Dresden
+## Research training
 
-* **MAGIC NOR Logic Gate Based on BFO Memristors** (Jan 2024 – Sep 2025)
-  * Leibniz Institute of Photonic Technology (IPHT), Quantum Detection Dept., Jena, Germany
-  * Supervised by Prof. Dr. Heidemarie Krüger and Dr. Nan Du
-  * Implemented and verified a NOR logic gate under the MAGIC architecture using analogue BiFeO3 (BFO) memristors
-  * Performed multi-cycle endurance and retention tests; data acquisition and analysis with Python
+- **Polarization fluorescence microscopy / F-actin**, Leibniz IPHT, May 2026–present. Ongoing project with Prof. Rainer Heintzmann and Dr. Daniela Täuber.
+- **PiF-IR spectroscopic imaging / RPE granules**, Leibniz IPHT, September 2025–April 2026. Hyperspectral measurement and PCA-based analysis with team guidance. A 5 nm/pixel sampling step should not be described as independently validated resolution.
+- **BiFeO₃ memristors / MAGIC NOR logic**, Leibniz IPHT, January 2024–September 2025. Device-testing training with Prof. Heidemarie Krüger and Dr. Nan Du, including endurance and retention experiments.
+- **Alzheimer's disease classification**, bachelor's research at HUST, 2020–2021, supervised by Prof. Haimin Luo. Biomarker data and neural-network analysis.
 
-* **Bachelor Thesis — Deep Learning for Alzheimer's Disease Classification** (May 2020 – May 2021)
-  * Wuhan National Laboratory for Optoelectronics, Wuhan, China
-  * Supervised by Prof. Haimin Luo
-  * Incorporated CSF biomarker data into a multimodal neural network; MLP-based fusion achieved improvements in accuracy and sensitivity over the baseline model
+See [Research](/research/) for project context.
 
-Skills
-======
-* **Programming:** Python (data processing, image analysis)
-* **Optics:** Currently learning Zemax for optical design; interested in metasurface-based and computational imaging systems
-* **Languages:** English — professional proficiency (IELTS 7.0); Chinese — native
+## Skills and languages
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- Research training: microscopy, biological-sample measurements, infrared spectroscopy, PCA-based exploratory analysis, and electronic-device testing.
+- Programming: developing Python skills for data processing and image analysis.
+- English: IELTS Academic overall 7.0, December 2025; Chinese: native.
 
-Honours & Awards
-======
-* **Team Second Prize**, SoftBank Robotics Cup (China Robot Skills Competition) — Golf Project, Taizhou, China, 2018
-  * Responsible for target-recognition module coding and debugging
+## Team activities
+
+Team Second Prize, SoftBank Robotics Cup / China Robot Skills Competition, 2018. Participation in the NAO robotics team project.
+
+<p class="st-small">Updated October 2026. A tailored application CV is available on request.</p>

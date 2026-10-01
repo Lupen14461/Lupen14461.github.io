@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Sicheng Tian"
   pronouns         : # example: "she/her"  
-  bio              : "M.Sc. student in Photonics at Abbe School of Photonics, University of Jena. Research interests: microscopy, computational imaging, photonics."
+  bio              : "M.Sc. student in Photonics at Abbe School of Photonics, University of Jena. Research interests: biomedical microscopy, spectroscopy, and instrumentation."
   location         : "Jena, Germany"
   employer         : "Abbe School of Photonics, University of Jena"
   uri              : # URL
@@ -166,6 +166,22 @@ include:
   - _pages
   - files
 exclude:
+  - _publications
+  - _talks
+  - _teaching
+  - _portfolio
+  - _posts
+  - _drafts
+  - _pages/markdown.md
+  - _pages/archive-layout-with-content.md
+  - _pages/non-menu-page.md
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - markdown_generator
+  - scripts
+  - "网站维护指南.md"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
