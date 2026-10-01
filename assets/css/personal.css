@@ -1,0 +1,120 @@
+/* Theme palettes share the template's existing data-theme toggle. */
+:root {
+  color-scheme: light;
+  --st-bg: #f6f7f3;
+  --st-text: #263930;
+  --st-muted: #5d705f;
+  --st-accent: #7c6440;
+  --st-border: #d9e2d2;
+  --st-surface: #fffef9;
+  --st-soft-surface: #e6eddd;
+  --st-footer: #e5eadf;
+  --st-link: #345e43;
+  --st-link-hover: #1f4830;
+  --st-button-bg: #285743;
+  --st-button-text: #ffffff;
+  --st-illustration-bg: #e2e9d9;
+  --st-illustration-line: #839976;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --st-bg: #14221c;
+  --st-text: #e4ede1;
+  --st-muted: #b8c9b5;
+  --st-accent: #c7aa7d;
+  --st-border: #385342;
+  --st-surface: #1d3026;
+  --st-soft-surface: #263c2e;
+  --st-footer: #1b2c23;
+  --st-link: #9fcda9;
+  --st-link-hover: #c7e8cb;
+  --st-button-bg: #9fcca8;
+  --st-button-text: #11251a;
+  --st-illustration-bg: #21372a;
+  --st-illustration-line: #82aa89;
+}
+
+/* Also recolor template navigation, sidebar, borders and footer. */
+:root, html[data-theme="dark"] {
+  --global-base-color: var(--st-button-bg);
+  --global-bg-color: var(--st-bg);
+  --global-footer-bg-color: var(--st-footer);
+  --global-border-color: var(--st-border);
+  --global-dark-border-color: var(--st-border);
+  --global-code-background-color: var(--st-surface);
+  --global-code-text-color: var(--st-text);
+  --global-fig-caption-color: var(--st-muted);
+  --global-link-color: var(--st-link);
+  --global-link-color-hover: var(--st-link-hover);
+  --global-link-color-visited: var(--st-link);
+  --global-masthead-link-color: var(--st-text);
+  --global-masthead-link-color-hover: var(--st-link-hover);
+  --global-text-color: var(--st-text);
+  --global-text-color-light: var(--st-muted);
+  --global-thead-color: var(--st-soft-surface);
+  --global-toc-bg-color: var(--st-surface);
+}
+
+body { background:var(--st-bg); color:var(--st-text)}
+h1,h2,h3 { color:var(--st-text)}
+.masthead { background:var(--st-bg); border-bottom:1px solid var(--st-border)}
+.greedy-nav { background:var(--st-bg)}
+.page__content p { line-height:1.8}
+.st-hero { display:grid; grid-template-columns:1.55fr 1fr; gap:65px; align-items:center; padding:28px 0 40px}
+.st-hero h1 { font-size:2.7em; line-height:1.18; letter-spacing:-1.8px; font-weight:500; margin:24px 0}
+.st-intro { color:var(--st-muted); max-width:650px; font-size:1.04em}
+.st-eyebrow { font:600 .65em/1.6 -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; letter-spacing:2px; color:var(--st-accent); text-transform:uppercase}
+.st-actions { display:flex; gap:22px; align-items:center; margin:28px 0}
+.st-button { display:inline-block; padding:11px 20px; border-radius:8px; background:var(--st-button-bg); color:var(--st-button-text)!important; text-decoration:none!important}
+.st-text-link { color:var(--st-link)}
+.st-small { font-size:.7em; color:var(--st-muted)}
+.st-portrait { margin:0; background:var(--st-soft-surface); border-radius:22px; padding:14px 14px 10px; transform:rotate(2deg)}
+.st-portrait img { width:100%; border-radius:14px; max-height:360px; object-fit:cover; object-position:center 35%; display:block}
+.st-portrait figcaption { font-size:.55em; color:var(--st-muted); padding:12px 4px 4px}
+.st-section { border-top:1px solid var(--st-border); margin-top:16px; padding:35px 0}
+.st-section h2 { font-size:1.7em; font-weight:500; letter-spacing:-.6px}
+.st-cards { display:grid; grid-template-columns:repeat(3,1fr); gap:20px; margin:28px 0}
+.st-cards article { border:1px solid var(--st-border); background:var(--st-surface); border-radius:12px; padding:23px}
+.st-cards article>span { font-size:.55em; letter-spacing:1.5px; color:var(--st-muted)}
+.st-cards h3 { font-size:1em; margin:18px 0 12px; line-height:1.4}
+.st-cards p { font-size:.75em; color:var(--st-muted)}
+.st-cards a { font-size:.7em}
+.st-callout { background:var(--st-soft-surface); border:1px solid var(--st-border); padding:28px 32px; margin:20px 0 35px; border-radius:12px}
+.st-callout h2 { margin-top:8px; border-bottom:0; font-size:1.45em; font-weight:500}
+.st-callout p { font-size:.85em; color:var(--st-muted)}
+.page__title { font-size:1.5em}
+.page__footer { background:var(--st-footer)}
+.author__avatar img { border-radius:16px}
+@media(min-width:1024px) { #main:has(.st-hero) .page { width:100%; padding-right:0}
+.st-hero { padding-top:20px}
+}
+@media(max-width:900px) { .st-hero { gap:24px; grid-template-columns:1.5fr 1fr}
+.st-hero h1 { font-size:2em}
+.st-cards { grid-template-columns:1fr}
+.st-cards article { padding:20px}
+}
+@media(max-width:600px) { .st-hero { grid-template-columns:1fr}
+.st-portrait { max-width:290px; margin:auto}
+.st-hero h1 { font-size:2em}
+.st-callout { padding:22px}
+.st-actions { flex-wrap:wrap}
+}
+
+
+.page:has(.st-hero) .page__title { display:none}
+.st-optic { margin:0; transform:rotate(2deg)}
+.st-optic svg { width:100%; display:block; border-radius:22px}
+.st-optic figcaption { font-size:.5em; letter-spacing:1px; color:var(--st-muted); padding:14px 2px}
+.author__avatar { display:none}
+.masthead__menu-item--lg { font-weight:700}
+@media(max-width:600px) { .st-optic { max-width:300px; margin:auto}
+}
+
+/* SVG presentation attributes otherwise retain the light palette. */
+.st-optic svg > rect { fill: var(--st-illustration-bg); }
+.st-optic svg > g { stroke: var(--st-illustration-line); }
+.st-optic svg > path { stroke: var(--st-button-bg); }
+.st-optic svg > circle:last-of-type { fill: var(--st-accent); }
+.st-optic svg > text { fill: var(--st-muted); }
+.st-button:hover, .st-button:focus { filter: brightness(1.08); }
