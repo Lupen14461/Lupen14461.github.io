@@ -1228,6 +1228,8 @@
       }
     }
   ],
+  "content_updated_at": "2026-10-09T20:45:29.900886+00:00",
+  "latest_update": "2026-10-09：港科广与港中深9位候选及生活/申请条件已补充。",
   "map_records": [
     {
       "id": "lemke",
@@ -2662,17 +2664,7 @@
       "evidence": "历史候选记录。本次读取主表不等于今日核实招聘。",
       "observed_on": "2026-10-01",
       "geo_note": "原记录机构关联城市；实际实验室校区待确认。",
-      "geo": {
-        "key": "CH-2657896",
-        "lat": 47.36667,
-        "lon": 8.55,
-        "city": "Zürich",
-        "country_code": "CH",
-        "geonames_id": "2657896",
-        "precision": "城市中心",
-        "url": "https://www.geonames.org/2657896/",
-        "note": "城市中心，非校区、实验室或住房地址。"
-      }
+      "geo": null
     },
     {
       "id": "existing-L04",
@@ -5878,15 +5870,729 @@
         "url": "https://www.geonames.org/5224151/",
         "note": "城市中心，非校区、实验室或住房地址。"
       }
+    },
+    {
+      "id": "guozhen-liu-cuhksz",
+      "name": "刘国珍 / Guozhen Liu",
+      "institution": "香港中文大学（深圳）",
+      "country": "中国大陆",
+      "city": "深圳",
+      "direction": "生物传感、微流控、体外诊断、POCT",
+      "status": "学校通道开放，组名额待核",
+      "action": "先联系核实",
+      "fit_label": "高",
+      "funding": "2027起BME/CIE学费162,000元/年；校长奖学金公布生活津贴180,000元/年（税后），学费减免另行分级评定。不能把最高生活奖和全额学费减免默认合并给每位录取者；个人资助组合和持续年限待问。",
+      "deadline": "",
+      "url": "https://med.cuhk.edu.cn/teacher/166",
+      "evidence": "2027医学院项目已开放；本人组当期博士名额待确认；核查日期2026-10-09，未收到个人名额/经费书面确认。",
+      "story": "把血液、唾液等样本中的生物标志物，变成可以在小型器件上定量读取的信号。团队同时研究生物传感器、微流控、可穿戴器件和医疗器械，面向慢性病诊断与管理。",
+      "work": "设计生物识别与对照，采集电化学/光学信号，验证真实样本的干扰、校准、稳定性及便携设备读出。",
+      "match": "相关训练缺口：生物标志物与对照、表面功能化、浓度校准；电化学方向还需电极与界面基础。 适合度是研究联系判断，不代表已满足个人资格。",
+      "apply": "先发简短定向询问信，附CV及可展示的研究证据，询问2027名额、资金、学位到岗及训练；允许直接联系不替代正式系统申请。BME2027秋季窗口2026-09-30至2027-04-15。 学校窗口不等于导师个人资助空缺。",
+      "english_policy": "BME/CIE公布IELTS Academic总分6.5，所查页面未列单项分；有效期和可接受考试类型以当期要求为准。其他项目须另核。",
+      "grade_policy": "BME/CIE公布认可硕士等路径，或本科荣誉/B等级等路径；所查正式材料未规定必须有发表论文。导师额外门槛仍待问；客座教师资格不等于已确认可作为主导师。",
+      "degree_route": "香港中文大学（深圳）BME博士通道；最终项目、主导师与学位授予/注册安排以项目书面回复为准。",
+      "contact": "liuguozhen@cuhk.edu.cn",
+      "reading": "先读已整理的手机辅助纸基唾液尿酸检测论文，辨认样本→显色→手机成像→浓度校准四步。",
+      "process_labels": [
+        "生物样本 / 靶标",
+        "识别或反应界面",
+        "电化学 / 光学信号",
+        "校准与真实样本验证"
+      ],
+      "life": "校区在深圳龙岗大运片区，前往福田/南山需考虑实际通勤。厚含/道扬公布的博士宿舍为三人间、共用卫浴；2025起校内书院住宿标准2,400元/年，水电等另计，个人床位与房型不保证。公开样本不足以评价这些导师是否强压，需向在读博士核实指导、周末与毕业年限。",
+      "life_sources": [
+        {
+          "title": "博士宿舍示例：厚含",
+          "url": "https://minerva.cuhk.edu.cn/page/81"
+        },
+        {
+          "title": "博士宿舍示例：道扬",
+          "url": "https://ling.cuhk.edu.cn/page/29"
+        },
+        {
+          "title": "学校住宿费用",
+          "url": "https://www.cuhk.edu.cn/zh-hans/page/8803"
+        }
+      ],
+      "sources": [
+        {
+          "title": "官方教师身份与研究",
+          "url": "https://med.cuhk.edu.cn/teacher/166"
+        },
+        {
+          "title": "入门论文 / 研究资料",
+          "url": "https://doi.org/10.1021/acssensors.2c00854"
+        },
+        {
+          "title": "医学院2027申请条件",
+          "url": "https://medpg.cuhk.edu.cn/page/112"
+        },
+        {
+          "title": "BME奖学金与学费",
+          "url": "https://medpg.cuhk.edu.cn/node/32"
+        },
+        {
+          "title": "CIE正式申请与费用",
+          "url": "https://sse-mphil-phd.cuhk.edu.cn/en/program/CIE"
+        }
+      ],
+      "origin": "湾区公开资料整理｜2026-10-09",
+      "research_checked_on": "2026-10-09",
+      "geo": {
+        "key": "CN-1795565",
+        "lat": 22.54554,
+        "lon": 114.0683,
+        "city": "Shenzhen",
+        "country_code": "CN",
+        "geonames_id": "1795565",
+        "precision": "城市中心",
+        "url": "https://www.geonames.org/1795565/",
+        "note": "城市中心，非校区、实验室或住房地址。"
+      }
+    },
+    {
+      "id": "shiyuan-liu-hkustgz",
+      "name": "刘世源 / Shiyuan Liu",
+      "institution": "香港科技大学（广州）",
+      "country": "中国大陆",
+      "city": "广州",
+      "direction": "铁电/压电材料、MEMS、柔性器件、生物兼容超声与POCT",
+      "status": "方向储备，欢迎联系",
+      "action": "先联系核实",
+      "fit_label": "高",
+      "funding": "学校PGS标准为15,000元/月、博士通常最长4年，录取及续期条件以offer为准。2027/28起PGS学生学费60,000元/年；若无额外减免，按年简单相减约余10,000元/月再支付生活开支。奖学金不是就业工资，个人席位及额外补助未确认。",
+      "deadline": "",
+      "url": "https://www.liusylab.com/openings",
+      "evidence": "组主页欢迎联系；列出的2026春季1个博士指标已过期，2027待确认；核查日期2026-10-09，未收到个人名额/经费书面确认。",
+      "story": "以材料与器件为起点，利用铁电、压电等性质实现传感和驱动，探索微机电系统、柔性电子、生物兼容超声及即时检测。",
+      "work": "制造和测试压电/柔性器件，搭建超声或POCT实验，测量信号、耦合效率、稳定性与生物相容性。具体博士课题待询。",
+      "match": "相关训练缺口：压电换能、阻抗与频率响应、微加工、材料—器件—测量之间的关系。 适合度是研究联系判断，不代表已满足个人资格。",
+      "apply": "先发简短定向询问信，附CV及可展示的研究证据，询问2027名额、资金、学位到岗及训练；允许直接联系不替代正式系统申请。学校中国籍申请者2027秋季一般截止2027-07-15 23:59（GMT+8）；这是通用系统窗口，不是个人课题组承诺的截止或名额。",
+      "english_policy": "学校一般IELTS Academic总分6.5、各小分5.5；具体项目附加要求及豁免按正式审核。",
+      "grade_policy": "学校一般PhD可按优秀本科表现或至少一年满意的全日制研究生学习等路线审核；公开一般要求未列固定发表数量或数值GPA。项目可加条件，学位和个人资格须确认。",
+      "degree_route": "香港科技大学（广州）正式PhD项目；先确认具体领域、主导师及项目要求。",
+      "contact": "shiyuanl@hkust-gz.edu.cn",
+      "reading": "先看项目页的生物兼容超声/POCT分支，再看招聘页所需CV和成绩单；本轮未核到对应分支的一篇指定首读论文。",
+      "process_labels": [
+        "生物样本 / 器件",
+        "压电材料与耦合",
+        "声学 / 电学读出",
+        "校准与应用验证"
+      ],
+      "life": "校区在广州南沙东涌/庆盛一带，生活半径与天河中心区不同。官方校内宿舍为6–8人套间、独立卧室，共用厨房/客厅/卫浴；实际房型及2027费用待核。官方学生访谈能提供生活线索，但不能证明具体导师的工时或培养风格；本轮没有读取到可核验的小红书博士原帖。",
+      "life_sources": [
+        {
+          "title": "官方校内宿舍",
+          "url": "https://www.hkust-gz.edu.cn/zh/campus-life/facilities-services/student-dormitories/"
+        },
+        {
+          "title": "住宿与房型",
+          "url": "https://osa.hkust-gz.edu.cn/cn/StudentHousing"
+        }
+      ],
+      "sources": [
+        {
+          "title": "入门论文 / 研究资料",
+          "url": "https://www.liusylab.com/projects-6"
+        },
+        {
+          "title": "课题组 / 招募来源（注意文中年份）",
+          "url": "https://www.liusylab.com/openings"
+        },
+        {
+          "title": "学校入学要求",
+          "url": "https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-requirements"
+        },
+        {
+          "title": "正式申请时间",
+          "url": "https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-timeline"
+        },
+        {
+          "title": "PGS与学费",
+          "url": "https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees"
+        }
+      ],
+      "origin": "湾区公开资料整理｜2026-10-09",
+      "research_checked_on": "2026-10-09",
+      "geo": {
+        "key": "CN-1809858",
+        "lat": 23.11667,
+        "lon": 113.25,
+        "city": "Guangzhou",
+        "country_code": "CN",
+        "geonames_id": "1809858",
+        "precision": "城市中心",
+        "url": "https://www.geonames.org/1809858/",
+        "note": "城市中心，非校区、实验室或住房地址。"
+      }
+    },
+    {
+      "id": "wenyu-wang-hkustgz",
+      "name": "王文宇 / Andy Wenyu Wang",
+      "institution": "香港科技大学（广州）",
+      "country": "中国大陆",
+      "city": "广州",
+      "direction": "皮肤生物电子、柔性材料、3D打印、组织/类器官接口",
+      "status": "方向储备，欢迎联系",
+      "action": "先联系核实",
+      "fit_label": "高",
+      "funding": "学校PGS标准为15,000元/月、博士通常最长4年，录取及续期条件以offer为准。2027/28起PGS学生学费60,000元/年；若无额外减免，按年简单相减约余10,000元/月再支付生活开支。奖学金不是就业工资，个人席位及额外补助未确认。",
+      "deadline": "",
+      "url": "https://wang-andy.com/join-us/",
+      "evidence": "组主页邀请联系；具体2025秋季博士广告已过期，2027名额未知；核查日期2026-10-09，未收到个人名额/经费书面确认。",
+      "story": "让很薄、很软的电子材料接触皮肤或活组织，采集生理信号或形成组织接口；结合材料加工、3D打印和生物系统的相容性。",
+      "work": "制备柔性生物界面和器件，在皮肤、组织或类器官上开展信号采集，比较界面稳定性与生物反应。需确认材料制造与测量各占多少。",
+      "match": "相关训练缺口：软材料加工、电路与噪声、组织相容性、信号处理；不把个人兴趣写成已有生物电子研究经验。 适合度是研究联系判断，不代表已满足个人资格。",
+      "apply": "先发简短定向询问信，附CV及可展示的研究证据，询问2027名额、资金、学位到岗及训练；允许直接联系不替代正式系统申请。学校中国籍申请者2027秋季一般截止2027-07-15 23:59（GMT+8）；这是通用系统窗口，不是个人课题组承诺的截止或名额。",
+      "english_policy": "学校一般IELTS Academic总分6.5、各小分5.5；具体项目附加要求及豁免按正式审核。",
+      "grade_policy": "学校一般PhD可按优秀本科表现或至少一年满意的全日制研究生学习等路线审核；公开一般要求未列固定发表数量或数值GPA。项目可加条件，学位和个人资格须确认。",
+      "degree_route": "香港科技大学（广州）正式PhD项目；先确认具体领域、主导师及项目要求。",
+      "contact": "wenyuwang@hkust-gz.edu.cn",
+      "reading": "主页先看on-skin与组织/类器官接口两类对象，判断你想做读出与测量，还是主要做材料制造。",
+      "process_labels": [
+        "皮肤 / 组织对象",
+        "柔性材料接触界面",
+        "生理信号采集",
+        "界面与稳定性验证"
+      ],
+      "life": "校区在广州南沙东涌/庆盛一带，生活半径与天河中心区不同。官方校内宿舍为6–8人套间、独立卧室，共用厨房/客厅/卫浴；实际房型及2027费用待核。官方学生访谈能提供生活线索，但不能证明具体导师的工时或培养风格；本轮没有读取到可核验的小红书博士原帖。",
+      "life_sources": [
+        {
+          "title": "官方校内宿舍",
+          "url": "https://www.hkust-gz.edu.cn/zh/campus-life/facilities-services/student-dormitories/"
+        },
+        {
+          "title": "住宿与房型",
+          "url": "https://osa.hkust-gz.edu.cn/cn/StudentHousing"
+        }
+      ],
+      "sources": [
+        {
+          "title": "官方教师身份与研究",
+          "url": "https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Wenyu/wenyuwang"
+        },
+        {
+          "title": "入门论文 / 研究资料",
+          "url": "https://wang-andy.com/"
+        },
+        {
+          "title": "课题组 / 招募来源（注意文中年份）",
+          "url": "https://wang-andy.com/join-us/"
+        },
+        {
+          "title": "学校入学要求",
+          "url": "https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-requirements"
+        },
+        {
+          "title": "正式申请时间",
+          "url": "https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-timeline"
+        },
+        {
+          "title": "PGS与学费",
+          "url": "https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees"
+        }
+      ],
+      "origin": "湾区公开资料整理｜2026-10-09",
+      "research_checked_on": "2026-10-09",
+      "geo": {
+        "key": "CN-1809858",
+        "lat": 23.11667,
+        "lon": 113.25,
+        "city": "Guangzhou",
+        "country_code": "CN",
+        "geonames_id": "1809858",
+        "precision": "城市中心",
+        "url": "https://www.geonames.org/1809858/",
+        "note": "城市中心，非校区、实验室或住房地址。"
+      }
+    },
+    {
+      "id": "chenzhong-li-cuhksz",
+      "name": "李晨钟 / Chenzhong Li",
+      "institution": "香港中文大学（深圳）",
+      "country": "中国大陆",
+      "city": "深圳",
+      "direction": "生物光电子、生物芯片、BioMEMS、神经/可穿戴接口",
+      "status": "学校通道开放，组名额待核",
+      "action": "先联系核实",
+      "fit_label": "高",
+      "funding": "2027起BME/CIE学费162,000元/年；校长奖学金公布生活津贴180,000元/年（税后），学费减免另行分级评定。不能把最高生活奖和全额学费减免默认合并给每位录取者；个人资助组合和持续年限待问。",
+      "deadline": "",
+      "url": "https://med.cuhk.edu.cn/teacher/981",
+      "evidence": "2027医学院项目已开放；未找到本人组当期博士专项公告；核查日期2026-10-09，未收到个人名额/经费书面确认。",
+      "story": "把生物分析、微型器件和光电技术结合成生物芯片与健康设备，研究神经接口、可穿戴系统和诊断检测等应用。",
+      "work": "开发或测试生物芯片与传感界面，进行光学/电学采集、微流体实验及对照分析；具体博士任务需与导师确认。",
+      "match": "相关训练缺口：生物识别与表面化学、芯片与电极、电化学/光电子读出；具体补什么取决于实际项目。 适合度是研究联系判断，不代表已满足个人资格。",
+      "apply": "先发简短定向询问信，附CV及可展示的研究证据，询问2027名额、资金、学位到岗及训练；允许直接联系不替代正式系统申请。BME2027秋季窗口2026-09-30至2027-04-15。 学校窗口不等于导师个人资助空缺。",
+      "english_policy": "BME/CIE公布IELTS Academic总分6.5，所查页面未列单项分；有效期和可接受考试类型以当期要求为准。其他项目须另核。",
+      "grade_policy": "BME/CIE公布认可硕士等路径，或本科荣誉/B等级等路径；所查正式材料未规定必须有发表论文。导师额外门槛仍待问；客座教师资格不等于已确认可作为主导师。",
+      "degree_route": "香港中文大学（深圳）BME博士通道；最终项目、主导师与学位授予/注册安排以项目书面回复为准。",
+      "contact": "lichenzhong@cuhk.edu.cn",
+      "reading": "先看学校发布的《智能生物芯片助力大健康事业的发展》访谈文字，选一个器件说清楚测量对象与信号。",
+      "process_labels": [
+        "生物样本 / 神经",
+        "芯片与识别界面",
+        "光学 / 电学采集",
+        "特异性与性能验证"
+      ],
+      "life": "校区在深圳龙岗大运片区，前往福田/南山需考虑实际通勤。厚含/道扬公布的博士宿舍为三人间、共用卫浴；2025起校内书院住宿标准2,400元/年，水电等另计，个人床位与房型不保证。公开样本不足以评价这些导师是否强压，需向在读博士核实指导、周末与毕业年限。",
+      "life_sources": [
+        {
+          "title": "博士宿舍示例：厚含",
+          "url": "https://minerva.cuhk.edu.cn/page/81"
+        },
+        {
+          "title": "博士宿舍示例：道扬",
+          "url": "https://ling.cuhk.edu.cn/page/29"
+        },
+        {
+          "title": "学校住宿费用",
+          "url": "https://www.cuhk.edu.cn/zh-hans/page/8803"
+        }
+      ],
+      "sources": [
+        {
+          "title": "官方教师身份与研究",
+          "url": "https://med.cuhk.edu.cn/teacher/981"
+        },
+        {
+          "title": "入门论文 / 研究资料",
+          "url": "https://side.cuhk.edu.cn/zh-hans/article/934"
+        },
+        {
+          "title": "医学院2027申请条件",
+          "url": "https://medpg.cuhk.edu.cn/page/112"
+        },
+        {
+          "title": "BME奖学金与学费",
+          "url": "https://medpg.cuhk.edu.cn/node/32"
+        },
+        {
+          "title": "CIE正式申请与费用",
+          "url": "https://sse-mphil-phd.cuhk.edu.cn/en/program/CIE"
+        }
+      ],
+      "origin": "湾区公开资料整理｜2026-10-09",
+      "research_checked_on": "2026-10-09",
+      "geo": {
+        "key": "CN-1795565",
+        "lat": 22.54554,
+        "lon": 114.0683,
+        "city": "Shenzhen",
+        "country_code": "CN",
+        "geonames_id": "1795565",
+        "precision": "城市中心",
+        "url": "https://www.geonames.org/1795565/",
+        "note": "城市中心，非校区、实验室或住房地址。"
+      }
+    },
+    {
+      "id": "xuejin-li-cuhksz",
+      "name": "李学金 / Xuejin Tony Li",
+      "institution": "香港中文大学（深圳）",
+      "country": "中国大陆",
+      "city": "深圳",
+      "direction": "光纤生物传感、微纳光子、无标记读出",
+      "status": "方向储备，资格待确认",
+      "action": "先联系核实",
+      "fit_label": "中",
+      "funding": "所属博士项目、导师席位和个人资助组合未确认；BME/CIE学校奖学金规则不能自动套用。",
+      "deadline": "",
+      "url": "https://www.cuhk.edu.cn/zh-hans/recruitment/14285",
+      "evidence": "近期官方招聘是博士后，不是博士；博士名额/主导师资格待确认；核查日期2026-10-09，未收到个人名额/经费书面确认。",
+      "story": "用光纤、光子晶体或等离激元结构，把表面结合或样本变化转换成可测光学信号，发展生物检测与传感平台。",
+      "work": "研究光与光纤表面生物识别的耦合，进行光谱采集、表面功能化、结合动力学和检测限验证。当前主导师资格和可选项目待问。",
+      "match": "相关训练缺口：光纤模式与倏逝场、表面结合动力学、非特异性吸附、传感器特异性与检测限。 适合度是研究联系判断，不代表已满足个人资格。",
+      "apply": "先发简短定向询问信，附CV及可展示的研究证据，询问2027名额、资金、学位到岗及训练；允许直接联系不替代正式系统申请。正式博士领域和对应截止须先向导师/项目办公室核实。 学校窗口不等于导师个人资助空缺。",
+      "english_policy": "BME/CIE公布IELTS Academic总分6.5，所查页面未列单项分；有效期和可接受考试类型以当期要求为准。其他项目须另核。",
+      "grade_policy": "BME/CIE公布认可硕士等路径，或本科荣誉/B等级等路径；所查正式材料未规定必须有发表论文。导师额外门槛仍待问；客座教师资格不等于已确认可作为主导师。",
+      "degree_route": "香港中文大学（深圳）待确认博士通道；最终项目、主导师与学位授予/注册安排以项目书面回复为准。",
+      "contact": "tonyli@cuhk.edu.cn",
+      "reading": "教师页列出2025年Analytical Chemistry的光纤生物动力学平台/无标记Hcy检测论文；先看示意图和校准实验，本轮未下载全文。",
+      "process_labels": [
+        "样本分子结合",
+        "光纤表面相互作用",
+        "光谱 / 共振读出",
+        "动力学与检测限"
+      ],
+      "life": "校区在深圳龙岗大运片区，前往福田/南山需考虑实际通勤。厚含/道扬公布的博士宿舍为三人间、共用卫浴；2025起校内书院住宿标准2,400元/年，水电等另计，个人床位与房型不保证。公开样本不足以评价这些导师是否强压，需向在读博士核实指导、周末与毕业年限。",
+      "life_sources": [
+        {
+          "title": "博士宿舍示例：厚含",
+          "url": "https://minerva.cuhk.edu.cn/page/81"
+        },
+        {
+          "title": "博士宿舍示例：道扬",
+          "url": "https://ling.cuhk.edu.cn/page/29"
+        },
+        {
+          "title": "学校住宿费用",
+          "url": "https://www.cuhk.edu.cn/zh-hans/page/8803"
+        }
+      ],
+      "sources": [
+        {
+          "title": "入门论文 / 研究资料",
+          "url": "https://sse.cuhk.edu.cn/en/faculty/lixuejin"
+        },
+        {
+          "title": "课题组 / 招募来源（注意文中年份）",
+          "url": "https://www.cuhk.edu.cn/zh-hans/recruitment/14285"
+        },
+        {
+          "title": "医学院2027申请条件",
+          "url": "https://medpg.cuhk.edu.cn/page/112"
+        },
+        {
+          "title": "BME奖学金与学费",
+          "url": "https://medpg.cuhk.edu.cn/node/32"
+        },
+        {
+          "title": "CIE正式申请与费用",
+          "url": "https://sse-mphil-phd.cuhk.edu.cn/en/program/CIE"
+        }
+      ],
+      "origin": "湾区公开资料整理｜2026-10-09",
+      "research_checked_on": "2026-10-09",
+      "geo": {
+        "key": "CN-1795565",
+        "lat": 22.54554,
+        "lon": 114.0683,
+        "city": "Shenzhen",
+        "country_code": "CN",
+        "geonames_id": "1795565",
+        "precision": "城市中心",
+        "url": "https://www.geonames.org/1795565/",
+        "note": "城市中心，非校区、实验室或住房地址。"
+      }
+    },
+    {
+      "id": "lingluo-chu-hkustgz",
+      "name": "储棂椤 / Lingluo Chu",
+      "institution": "香港科技大学（广州）",
+      "country": "中国大陆",
+      "city": "广州",
+      "direction": "染色体生物物理、3D定量成像",
+      "status": "学校通道开放，组名额待核",
+      "action": "先联系核实",
+      "fit_label": "中",
+      "funding": "学校PGS标准为15,000元/月、博士通常最长4年，录取及续期条件以offer为准。2027/28起PGS学生学费60,000元/年；若无额外减免，按年简单相减约余10,000元/月再支付生活开支。奖学金不是就业工资，个人席位及额外补助未确认。",
+      "deadline": "",
+      "url": "https://sysh.hkust-gz.edu.cn/blog/2023/06/08/lingluo-chu/",
+      "evidence": "BSBE正式申请通道开放；本人组2027名额/经费未确认；核查日期2026-10-09，未收到个人名额/经费书面确认。",
+      "story": "用三维成像和定量分析研究细胞分裂时染色体怎样组织和改变形状，以观察判别结构模型。",
+      "work": "开展细胞培养、荧光标记、三维成像和形态定量，以图像和对照检验染色体结构模型。方法开发与湿实验比例待问。",
+      "match": "相关训练缺口：染色体与细胞周期基础、细胞培养/标记、3D图像定量；具体编码和实验训练方式待问。 适合度是研究联系判断，不代表已满足个人资格。",
+      "apply": "先发简短定向询问信，附CV及可展示的研究证据，询问2027名额、资金、学位到岗及训练；允许直接联系不替代正式系统申请。学校中国籍申请者2027秋季一般截止2027-07-15 23:59（GMT+8）；这是通用系统窗口，不是个人课题组承诺的截止或名额。",
+      "english_policy": "学校一般IELTS Academic总分6.5、各小分5.5；具体项目附加要求及豁免按正式审核。",
+      "grade_policy": "学校一般PhD可按优秀本科表现或至少一年满意的全日制研究生学习等路线审核；公开一般要求未列固定发表数量或数值GPA。项目可加条件，学位和个人资格须确认。",
+      "degree_route": "香港科技大学（广州）正式PhD项目；先确认具体领域、主导师及项目要求。",
+      "contact": "lingluochu@ust.hk",
+      "reading": "The 3D Topography of Mitotic Chromosomes（2020）：先看染色体构型图和从图像支持模型的证据；已有本地全文与总集。",
+      "process_labels": [
+        "分裂细胞 / 染色体",
+        "荧光标记与制样",
+        "三维显微图像",
+        "形态定量与模型比较"
+      ],
+      "life": "校区在广州南沙东涌/庆盛一带，生活半径与天河中心区不同。官方校内宿舍为6–8人套间、独立卧室，共用厨房/客厅/卫浴；实际房型及2027费用待核。官方学生访谈能提供生活线索，但不能证明具体导师的工时或培养风格；本轮没有读取到可核验的小红书博士原帖。",
+      "life_sources": [
+        {
+          "title": "官方校内宿舍",
+          "url": "https://www.hkust-gz.edu.cn/zh/campus-life/facilities-services/student-dormitories/"
+        },
+        {
+          "title": "住宿与房型",
+          "url": "https://osa.hkust-gz.edu.cn/cn/StudentHousing"
+        }
+      ],
+      "sources": [
+        {
+          "title": "官方教师身份与研究",
+          "url": "https://sysh.hkust-gz.edu.cn/blog/2023/06/08/lingluo-chu/"
+        },
+        {
+          "title": "入门论文 / 研究资料",
+          "url": "https://doi.org/10.1016/j.molcel.2020.07.002"
+        },
+        {
+          "title": "学校入学要求",
+          "url": "https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-requirements"
+        },
+        {
+          "title": "正式申请时间",
+          "url": "https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-timeline"
+        },
+        {
+          "title": "PGS与学费",
+          "url": "https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees"
+        }
+      ],
+      "origin": "湾区公开资料整理｜2026-10-09",
+      "research_checked_on": "2026-10-09",
+      "geo": {
+        "key": "CN-1809858",
+        "lat": 23.11667,
+        "lon": 113.25,
+        "city": "Guangzhou",
+        "country_code": "CN",
+        "geonames_id": "1809858",
+        "precision": "城市中心",
+        "url": "https://www.geonames.org/1809858/",
+        "note": "城市中心，非校区、实验室或住房地址。"
+      }
+    },
+    {
+      "id": "xin-yang-hkustgz",
+      "name": "杨锌 / Xin Yang",
+      "institution": "香港科技大学（广州）",
+      "country": "中国大陆",
+      "city": "广州",
+      "direction": "非接触RF/mmWave健康传感、无线生物电子、身体接口",
+      "status": "导师明确在招",
+      "action": "先联系核实",
+      "fit_label": "探索",
+      "funding": "学校PGS标准为15,000元/月、博士通常最长4年，录取及续期条件以offer为准。2027/28起PGS学生学费60,000元/年；若无额外减免，按年简单相减约余10,000元/月再支付生活开支。奖学金不是就业工资，个人席位及额外补助未确认。",
+      "deadline": "",
+      "url": "https://xy-zinc.github.io/",
+      "evidence": "本人主页明确正在招PhD；具体入学季、名额、资金待确认；核查日期2026-10-09，未收到个人名额/经费书面确认。",
+      "story": "利用无线电/毫米波的传播和反射，或无线皮肤器件，采集生理信息；把健康测量放入可穿戴、眼镜等日常设备。",
+      "work": "构建无线采集与可穿戴平台，研究传播、供能和传感读出，做信号处理与生理测量验证。RF电路和编码训练需求较高。",
+      "match": "相关训练缺口：电磁波、RF电路、数字信号处理、嵌入式采集与编程；目前不能写成你已经会这些。 适合度是研究联系判断，不代表已满足个人资格。",
+      "apply": "先发简短定向询问信，附CV及可展示的研究证据，询问2027名额、资金、学位到岗及训练；允许直接联系不替代正式系统申请。学校中国籍申请者2027秋季一般截止2027-07-15 23:59（GMT+8）；这是通用系统窗口，不是个人课题组承诺的截止或名额。",
+      "english_policy": "学校一般IELTS Academic总分6.5、各小分5.5；具体项目附加要求及豁免按正式审核。",
+      "grade_policy": "学校一般PhD可按优秀本科表现或至少一年满意的全日制研究生学习等路线审核；公开一般要求未列固定发表数量或数值GPA。项目可加条件，学位和个人资格须确认。",
+      "degree_route": "香港科技大学（广州）正式PhD项目；先确认具体领域、主导师及项目要求。",
+      "contact": "xiny@hkust-gz.edu.cn",
+      "reading": "主页列出2026 Nature Electronics的无电池无线表皮血压传感网络；先辨认传感元件、供能、信号传输与血压估计的区别。",
+      "process_labels": [
+        "生理运动 / 皮肤",
+        "RF传播或无线界面",
+        "接收与信号处理",
+        "生理指标与对照"
+      ],
+      "life": "校区在广州南沙东涌/庆盛一带，生活半径与天河中心区不同。官方校内宿舍为6–8人套间、独立卧室，共用厨房/客厅/卫浴；实际房型及2027费用待核。官方学生访谈能提供生活线索，但不能证明具体导师的工时或培养风格；本轮没有读取到可核验的小红书博士原帖。",
+      "life_sources": [
+        {
+          "title": "官方校内宿舍",
+          "url": "https://www.hkust-gz.edu.cn/zh/campus-life/facilities-services/student-dormitories/"
+        },
+        {
+          "title": "住宿与房型",
+          "url": "https://osa.hkust-gz.edu.cn/cn/StudentHousing"
+        }
+      ],
+      "sources": [
+        {
+          "title": "官方教师身份与研究",
+          "url": "https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/?id=691"
+        },
+        {
+          "title": "课题组 / 招募来源（注意文中年份）",
+          "url": "https://xy-zinc.github.io/"
+        },
+        {
+          "title": "学校入学要求",
+          "url": "https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-requirements"
+        },
+        {
+          "title": "正式申请时间",
+          "url": "https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-timeline"
+        },
+        {
+          "title": "PGS与学费",
+          "url": "https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/scholarships-fees"
+        }
+      ],
+      "origin": "湾区公开资料整理｜2026-10-09",
+      "research_checked_on": "2026-10-09",
+      "geo": {
+        "key": "CN-1809858",
+        "lat": 23.11667,
+        "lon": 113.25,
+        "city": "Guangzhou",
+        "country_code": "CN",
+        "geonames_id": "1809858",
+        "precision": "城市中心",
+        "url": "https://www.geonames.org/1809858/",
+        "note": "城市中心，非校区、实验室或住房地址。"
+      }
+    },
+    {
+      "id": "jiangfan-yu-cuhksz",
+      "name": "俞江帆 / Jiangfan Yu",
+      "institution": "香港中文大学（深圳）",
+      "country": "中国大陆",
+      "city": "深圳",
+      "direction": "影像引导医疗微机器人、磁驱动与操控",
+      "status": "学校通道开放，组名额待核",
+      "action": "先联系核实",
+      "fit_label": "探索",
+      "funding": "2027起BME/CIE学费162,000元/年；校长奖学金公布生活津贴180,000元/年（税后），学费减免另行分级评定。不能把最高生活奖和全额学费减免默认合并给每位录取者；个人资助组合和持续年限待问。",
+      "deadline": "",
+      "url": "https://www.imlyu.com/",
+      "evidence": "CIE2027通道已开放；2020招募旧文不算当前名额，本人组待问；核查日期2026-10-09，未收到个人名额/经费书面确认。",
+      "story": "把微/毫米尺度机器人的运动与医学影像反馈结合，研究在血管等复杂环境里的定位、操控、递送和治疗。",
+      "work": "将影像定位接入磁驱动反馈，搭建流动/组织模拟实验，评价机器人运动、定位误差与治疗相关功能。",
+      "match": "相关训练缺口：磁场驱动、运动/反馈控制、定位与图像分析；动物/医学实验的具体责任待问。 适合度是研究联系判断，不代表已满足个人资格。",
+      "apply": "先发简短定向询问信，附CV及可展示的研究证据，询问2027名额、资金、学位到岗及训练；允许直接联系不替代正式系统申请。CIE2027秋季窗口2026-09-01至2027-05-31。 学校窗口不等于导师个人资助空缺。",
+      "english_policy": "BME/CIE公布IELTS Academic总分6.5，所查页面未列单项分；有效期和可接受考试类型以当期要求为准。其他项目须另核。",
+      "grade_policy": "BME/CIE公布认可硕士等路径，或本科荣誉/B等级等路径；所查正式材料未规定必须有发表论文。导师额外门槛仍待问；客座教师资格不等于已确认可作为主导师。",
+      "degree_route": "香港中文大学（深圳）CIE博士通道；最终项目、主导师与学位授予/注册安排以项目书面回复为准。",
+      "contact": "yujiangfan@cuhk.edu.cn",
+      "reading": "先看组主页列出的2023年医疗微机器人影像整合磁驱动系统综述，再看2026血管软机器人研究；本轮只核题录与研究简介。",
+      "process_labels": [
+        "微机器人 / 流动",
+        "磁场驱动操控",
+        "影像定位反馈",
+        "运动与功能验证"
+      ],
+      "life": "校区在深圳龙岗大运片区，前往福田/南山需考虑实际通勤。厚含/道扬公布的博士宿舍为三人间、共用卫浴；2025起校内书院住宿标准2,400元/年，水电等另计，个人床位与房型不保证。公开样本不足以评价这些导师是否强压，需向在读博士核实指导、周末与毕业年限。",
+      "life_sources": [
+        {
+          "title": "博士宿舍示例：厚含",
+          "url": "https://minerva.cuhk.edu.cn/page/81"
+        },
+        {
+          "title": "博士宿舍示例：道扬",
+          "url": "https://ling.cuhk.edu.cn/page/29"
+        },
+        {
+          "title": "学校住宿费用",
+          "url": "https://www.cuhk.edu.cn/zh-hans/page/8803"
+        }
+      ],
+      "sources": [
+        {
+          "title": "官方教师身份与研究",
+          "url": "https://sse.cuhk.edu.cn/faculty/yujiangfan"
+        },
+        {
+          "title": "课题组 / 招募来源（注意文中年份）",
+          "url": "https://www.imlyu.com/"
+        },
+        {
+          "title": "医学院2027申请条件",
+          "url": "https://medpg.cuhk.edu.cn/page/112"
+        },
+        {
+          "title": "BME奖学金与学费",
+          "url": "https://medpg.cuhk.edu.cn/node/32"
+        },
+        {
+          "title": "CIE正式申请与费用",
+          "url": "https://sse-mphil-phd.cuhk.edu.cn/en/program/CIE"
+        }
+      ],
+      "origin": "湾区公开资料整理｜2026-10-09",
+      "research_checked_on": "2026-10-09",
+      "geo": {
+        "key": "CN-1795565",
+        "lat": 22.54554,
+        "lon": 114.0683,
+        "city": "Shenzhen",
+        "country_code": "CN",
+        "geonames_id": "1795565",
+        "precision": "城市中心",
+        "url": "https://www.geonames.org/1795565/",
+        "note": "城市中心，非校区、实验室或住房地址。"
+      }
+    },
+    {
+      "id": "hongyi-chen-cuhksz",
+      "name": "陈鸿毅 / Hongyi Chen",
+      "institution": "香港中文大学（深圳）",
+      "country": "中国大陆",
+      "city": "深圳",
+      "direction": "声学悬浮、无接触3D打印、生物制造",
+      "status": "方向储备，资格待确认",
+      "action": "先联系核实",
+      "fit_label": "探索",
+      "funding": "所属博士项目、导师席位和个人资助组合未确认；BME/CIE学校奖学金规则不能自动套用。",
+      "deadline": "",
+      "url": "https://sse.cuhk.edu.cn/faculty/chenhongyi",
+      "evidence": "官方身份和研究已核；未找到当期博士专项公告，适用项目待确认；核查日期2026-10-09，未收到个人名额/经费书面确认。",
+      "story": "利用声场悬浮和操控材料，探索在复杂表面/人体表面进行无接触、多材料打印，并研究生物材料配方和可制造性。",
+      "work": "搭建声学悬浮和打印平台，测量声场与材料行为，优化定位、成型质量和生物材料性能。所属博士项目先核实。",
+      "match": "相关训练缺口：声辐射力、材料流变、制造控制；主要研究若是机器学习配方预测，编程缺口会更大。 适合度是研究联系判断，不代表已满足个人资格。",
+      "apply": "先发简短定向询问信，附CV及可展示的研究证据，询问2027名额、资金、学位到岗及训练；允许直接联系不替代正式系统申请。正式博士领域和对应截止须先向导师/项目办公室核实。 学校窗口不等于导师个人资助空缺。",
+      "english_policy": "BME/CIE公布IELTS Academic总分6.5，所查页面未列单项分；有效期和可接受考试类型以当期要求为准。其他项目须另核。",
+      "grade_policy": "BME/CIE公布认可硕士等路径，或本科荣誉/B等级等路径；所查正式材料未规定必须有发表论文。导师额外门槛仍待问；客座教师资格不等于已确认可作为主导师。",
+      "degree_route": "香港中文大学（深圳）待确认博士通道；最终项目、主导师与学位授予/注册安排以项目书面回复为准。",
+      "contact": "chenhongyi@cuhk.edu.cn",
+      "reading": "先看2025年Omnidirectional and multi-material in situ 3D printing using acoustic levitation；从材料怎样被悬浮和放到表面上理解工作。",
+      "process_labels": [
+        "材料 / 目标表面",
+        "声场悬浮与操控",
+        "材料沉积 / 成型",
+        "精度与材料性能验证"
+      ],
+      "life": "校区在深圳龙岗大运片区，前往福田/南山需考虑实际通勤。厚含/道扬公布的博士宿舍为三人间、共用卫浴；2025起校内书院住宿标准2,400元/年，水电等另计，个人床位与房型不保证。公开样本不足以评价这些导师是否强压，需向在读博士核实指导、周末与毕业年限。",
+      "life_sources": [
+        {
+          "title": "博士宿舍示例：厚含",
+          "url": "https://minerva.cuhk.edu.cn/page/81"
+        },
+        {
+          "title": "博士宿舍示例：道扬",
+          "url": "https://ling.cuhk.edu.cn/page/29"
+        },
+        {
+          "title": "学校住宿费用",
+          "url": "https://www.cuhk.edu.cn/zh-hans/page/8803"
+        }
+      ],
+      "sources": [
+        {
+          "title": "官方教师身份与研究",
+          "url": "https://sse.cuhk.edu.cn/faculty/chenhongyi"
+        },
+        {
+          "title": "入门论文 / 研究资料",
+          "url": "https://myweb.cuhk.edu.cn/chenhongyi"
+        },
+        {
+          "title": "医学院2027申请条件",
+          "url": "https://medpg.cuhk.edu.cn/page/112"
+        },
+        {
+          "title": "BME奖学金与学费",
+          "url": "https://medpg.cuhk.edu.cn/node/32"
+        },
+        {
+          "title": "CIE正式申请与费用",
+          "url": "https://sse-mphil-phd.cuhk.edu.cn/en/program/CIE"
+        }
+      ],
+      "origin": "湾区公开资料整理｜2026-10-09",
+      "research_checked_on": "2026-10-09",
+      "geo": {
+        "key": "CN-1795565",
+        "lat": 22.54554,
+        "lon": 114.0683,
+        "city": "Shenzhen",
+        "country_code": "CN",
+        "geonames_id": "1795565",
+        "precision": "城市中心",
+        "url": "https://www.geonames.org/1795565/",
+        "note": "城市中心，非校区、实验室或住房地址。"
+      }
     }
   ],
   "map_info": {
-    "built_at": "2026-10-09T19:50:09.939800+00:00",
-    "records": 149,
-    "located": 149,
-    "cities": 71,
+    "built_at": "2026-10-09T20:46:22.628425+00:00",
+    "records": 158,
+    "located": 157,
+    "cities": 73,
     "countries": 20,
-    "unresolved": [],
+    "unresolved": [
+      {
+        "id": "existing-L03",
+        "country": "瑞士",
+        "city": ""
+      }
+    ],
     "precision": "城市中心；校区与实验室位置未逐一核验",
     "source": "GeoNames cities5000 WGS84，CC BY 4.0；Natural Earth 110m国界，公有领域",
     "coordinate_checked_on": "2026-10-09",
@@ -5896,8 +6602,17 @@
       "costa-crick",
       "solomek",
       "curto-vcd",
-      "weihan-li"
+      "weihan-li",
+      "guozhen-liu-cuhksz",
+      "shiyuan-liu-hkustgz",
+      "wenyu-wang-hkustgz",
+      "chenzhong-li-cuhksz",
+      "xuejin-li-cuhksz",
+      "lingluo-chu-hkustgz",
+      "xin-yang-hkustgz",
+      "jiangfan-yu-cuhksz",
+      "hongyi-chen-cuhksz"
     ],
-    "scope": "地图汇集现有主表公开研究字段、10/8全球初筛、美国扩展池和新关注组，并加入本轮比利时／苏黎世核查。历史候选未全部重新验证，不代表全都在招。"
+    "scope": "全球公开导师与项目资料；本轮补入港科广/港中深9位候选、正式申请政策及住宿/资金条件。覆盖多国研究方向，包含历史和待核线索；学校通道开放与导师个人资助空缺分别说明，并非全量在招名单。"
   }
 }
