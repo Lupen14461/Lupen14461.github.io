@@ -15,7 +15,7 @@
       "fit_label": "高",
       "rank": 1,
       "deadline": "2026-10-11",
-      "url": "https://tue.varbi.com/ny/what:job/jobID:966160/",
+      "url": "https://tue.varbi.com/en/what:job/jobID:966160/",
       "evidence_level": "A",
       "status": "正式招聘",
       "origin": "复查｜原岗位；两天后截止",
@@ -27,10 +27,30 @@
       "english_policy": "岗位要求C1，未写IELTS等效及豁免；不能仅凭总分推定满足。",
       "grade_policy": "相关工程／分析科学硕士，强定量和实验能力；正文未写必发论文或数值GPA。学位到岗时间待确认。",
       "evidence": "本轮回TU/e官方岗位2026/544确认截止、四年雇佣及材料未变；正文until filled不替代10/11表格截止。不是新增席位。",
-      "apply": "正式申请只走系统：动机信、CV含3推荐人、本硕成绩与译本、本科论文；硕士论文如已有。资格问题可询问PI，邮件不代替申请。",
-      "sources": [],
+      "apply": "只走系统：动机信、CV含3位推荐联系人的姓名与联系方式、本硕课程成绩及原件／译本、本科论文PDF；硕士论文如有。表格另要求读近期组内论文并在cover letter点明。邮件用于核资格，不替代递交。",
+      "sources": [
+        {
+          "title": "正式岗位2026/544",
+          "url": "https://tue.varbi.com/en/what:job/jobID:966160/"
+        },
+        {
+          "title": "申请表：近期论文要求",
+          "url": "https://tue.varbi.com/en/apply/positionquick/966160/"
+        },
+        {
+          "title": "2026可逆纳米开关原论文",
+          "url": "https://www.nature.com/articles/s41467-026-71690-8"
+        }
+      ],
       "observed_on": "2026-10-09",
       "official_verified_on": "2026-10-09",
+      "reading": "Vu等2026 Nature Communications：先读摘要与Fig.2a–b。颗粒被柔性链系住，分子形成粒子—表面桥接后运动收缩，解离后恢复；事件率经模型联系浓度。不是现成的复杂核酸检测结果。",
+      "process_labels": [
+        "表面／粒子功能化",
+        "可逆分子桥接",
+        "记录粒子运动切换",
+        "事件统计估计浓度"
+      ],
       "geo": {
         "key": "NL-2756253",
         "lat": 51.44083,
@@ -1228,8 +1248,8 @@
       }
     }
   ],
-  "content_updated_at": "2026-10-09T20:45:29.900886+00:00",
-  "latest_update": "2026-10-09：港科广与港中深9位候选及生活/申请条件已补充。",
+  "content_updated_at": "2026-10-09T21:39:20.902740+00:00",
+  "latest_update": "2026-10-09：TU/e补近期纳米开关论文和申请表；Mainz纠正推荐人与全额资助口径。未加入私人文书。",
   "map_records": [
     {
       "id": "lemke",
@@ -1240,23 +1260,38 @@
       "direction": "单分子与蛋白质可塑性",
       "status": "正式招聘",
       "action": "近期截止",
-      "fit": 94,
-      "funding": "项目制，合同待遇待核",
+      "fit": null,
+      "funding": "IPP官网：所有博士项目全额资助；本组具体工资、合同百分比及期限待核。",
       "deadline": "2026-10-15",
       "url": "https://www.imb.de/students-postdocs/international-phd-programme/apply-to-ipp/projects-offered/edward-lemke",
-      "evidence": "冬季2026/27一个项目；15日12:00 CEST截止。只走IPP统一招聘；在读硕士可申请，须入学前毕业。",
-      "story": "无序蛋白如何形成纳米级聚集和动态通道？用高分辨荧光、单分子与微流控观察传统平均测量看不到的异质性。",
+      "evidence": "冬季2026/27一个项目；2026-10-15 12:00 CEST，申请和至少两封推荐信均须到齐。FAQ接受已获或预期获硕士者，具体到岗日期需核。",
+      "story": "无固定单一折叠的蛋白如何形成常规光学分辨率以下的动态组装？本轮用高分辨荧光研究蛋白可塑性，区分微相分离组装与较大凝聚体。",
       "work": "选择标记和对照，记录荧光时间序列，分析分子状态与空间分布。",
       "match": "明确欢迎缺少实验生物经验的跨学科申请者并提供训练；计算方向仍需较强数理/编码基础。",
-      "apply": "先核两名推荐人（至少一位项目导师）能否及时支持；CV、动机与经历按IPP系统提交。直接邮件不能替代正式申请。",
+      "apply": "至少两位了解你的资深科学家推荐，官网举例组长或教授，偏好指导过研究者；没有写必须一位项目导师。先征得同意再注册，注册后推荐人不可改。动机≤300词；CV≤3MB；教育文件合并≤4MB；统一系统递交。",
       "origin": "既有初筛｜2026-10-08",
       "sources": [
         {
-          "title": "IPP申请与截止",
-          "url": "https://www.imb.de/students-postdocs/international-phd-programme/apply-to-ipp"
+          "title": "当轮Lemke项目",
+          "url": "https://www.imb.de/students-postdocs/international-phd-programme/apply-to-ipp/projects-offered/edward-lemke"
+        },
+        {
+          "title": "正式流程、推荐及截止",
+          "url": "https://www.imb.de/students-postdocs/international-phd-programme/apply-to-ipp/registration-and-application"
+        },
+        {
+          "title": "FAQ资格与全额资助",
+          "url": "https://www.imb.de/students-postdocs/international-phd-programme/apply-to-ipp/faqs"
         }
       ],
-      "official_verified_on": "2026-10-08",
+      "official_verified_on": "2026-10-09",
+      "fit_label": "高",
+      "process_labels": [
+        "蛋白动态组装",
+        "荧光标记与对照",
+        "高分辨／单分子采集",
+        "定量解释与模型"
+      ],
       "geo": {
         "key": "DE-2874225",
         "lat": 49.98185,
@@ -6581,7 +6616,7 @@
     }
   ],
   "map_info": {
-    "built_at": "2026-10-09T20:46:22.628425+00:00",
+    "built_at": "2026-10-09T21:40:40.508120+00:00",
     "records": 158,
     "located": 157,
     "cities": 73,
