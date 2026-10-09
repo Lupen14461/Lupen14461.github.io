@@ -1,0 +1,72 @@
+﻿key,city,country,lat,lon,geonames_id,url
+CN-1808926,Hangzhou,中国大陆,30.29365,120.16142,1808926,https://www.geonames.org/1808926/
+CN-1799397,Ningbo,中国大陆,29.87819,121.54945,1799397,https://www.geonames.org/1799397/
+CN-1796236,Shanghai,中国大陆,31.22222,121.45806,1796236,https://www.geonames.org/1796236/
+MO-1821274,Macau,中国澳门,22.20056,113.54611,1821274,https://www.geonames.org/1821274/
+HK-1819729,Hong Kong,中国香港,22.27832,114.17469,1819729,https://www.geonames.org/1819729/
+DK-2618468,Kongens Lyngby,丹麦,55.77044,12.50378,2618468,https://www.geonames.org/2618468/
+IL-293725,Reẖovot,以色列,31.89421,34.81199,293725,https://www.geonames.org/293725/
+CA-5969782,Hamilton,加拿大,43.25011,-79.84963,5969782,https://www.geonames.org/5969782/
+CA-6167865,Toronto,加拿大,43.70643,-79.39864,6167865,https://www.geonames.org/6167865/
+CA-6173331,Vancouver,加拿大,49.24966,-123.11934,6173331,https://www.geonames.org/6173331/
+CA-6176823,Waterloo,加拿大,43.4668,-80.51639,6176823,https://www.geonames.org/6176823/
+AT-2775220,Innsbruck,奥地利,47.26266,11.39454,2775220,https://www.geonames.org/2775220/
+AT-2761369,Vienna,奥地利,48.20849,16.37208,2761369,https://www.geonames.org/2761369/
+DE-2935022,Dresden,德国,51.05089,13.73832,2935022,https://www.geonames.org/2935022/
+DE-2929567,Erlangen,德国,49.59099,11.00783,2929567,https://www.geonames.org/2929567/
+DE-2925533,Frankfurt am Main,德国,50.11552,8.68417,2925533,https://www.geonames.org/2925533/
+DE-2922582,Garching,德国,48.24896,11.65101,2922582,https://www.geonames.org/2922582/
+DE-2918632,Göttingen,德国,51.53443,9.93228,2918632,https://www.geonames.org/2918632/
+DE-2911298,Hamburg,德国,53.55073,9.99302,2911298,https://www.geonames.org/2911298/
+DE-2894003,Kaiserslautern,德国,49.443,7.77161,2894003,https://www.geonames.org/2894003/
+DE-2892794,Karlsruhe,德国,49.00937,8.40444,2892794,https://www.geonames.org/2892794/
+DE-2886242,Köln,德国,50.93333,6.95,2886242,https://www.geonames.org/2886242/
+DE-2874225,Mainz,德国,49.98185,8.28008,2874225,https://www.geonames.org/2874225/
+DE-2867714,Munich,德国,48.13743,11.57549,2867714,https://www.geonames.org/2867714/
+DE-2857458,Oldenburg,德国,53.14039,8.21479,2857458,https://www.geonames.org/2857458/
+NO-3162797,Ås,挪威,59.66472,10.79465,3162797,https://www.geonames.org/3162797/
+CZ-3078610,Brno,捷克,49.19522,16.60796,3078610,https://www.geonames.org/3078610/
+SG-1880252,Singapore,新加坡,1.28967,103.85007,1880252,https://www.geonames.org/1880252/
+JP-1853909,Osaka,日本,34.69379,135.50107,1853909,https://www.geonames.org/1853909/
+JP-1850147,Tokyo,日本,35.6895,139.69171,1850147,https://www.geonames.org/1850147/
+BE-2797656,Gent,比利时,51.05,3.71667,2797656,https://www.geonames.org/2797656/
+BE-2792482,Leuven,比利时,50.87959,4.70093,2792482,https://www.geonames.org/2792482/
+FR-2989204,Orsay,法国,48.69572,2.18727,2989204,https://www.geonames.org/2989204/
+FR-2988758,Palaiseau,法国,48.71828,2.2498,2988758,https://www.geonames.org/2988758/
+AU-2174003,Brisbane,澳大利亚,-27.46794,153.02809,2174003,https://www.geonames.org/2174003/
+AU-2147714,Sydney,澳大利亚,-33.86785,151.20732,2147714,https://www.geonames.org/2147714/
+SE-2693678,Lund,瑞典,55.70584,13.19321,2693678,https://www.geonames.org/2693678/
+SE-2673730,Stockholm,瑞典,59.32938,18.06871,2673730,https://www.geonames.org/2673730/
+CH-2661604,Basel,瑞士,47.55839,7.57327,2661604,https://www.geonames.org/2661604/
+CH-2660646,Geneva,瑞士,46.20222,6.14569,2660646,https://www.geonames.org/2660646/
+CH-2659994,Lausanne,瑞士,46.516,6.63282,2659994,https://www.geonames.org/2659994/
+CH-2657896,Zürich,瑞士,47.36667,8.55,2657896,https://www.geonames.org/2657896/
+US-4180439,Atlanta,美国,33.749,-84.38798,4180439,https://www.geonames.org/4180439/
+US-4347778,Baltimore,美国,39.29038,-76.61219,4347778,https://www.geonames.org/4347778/
+US-4930956,Boston,美国,42.35843,-71.05977,4930956,https://www.geonames.org/4930956/
+US-5110629,Buffalo,美国,42.88645,-78.87837,5110629,https://www.geonames.org/5110629/
+US-4931972,Cambridge,美国,42.3751,-71.10561,4931972,https://www.geonames.org/4931972/
+US-4887158,Champaign,美国,40.11642,-88.24338,4887158,https://www.geonames.org/4887158/
+US-4464368,Durham,美国,35.99403,-78.89862,4464368,https://www.geonames.org/4464368/
+US-4891382,Evanston,美国,42.04114,-87.69006,4891382,https://www.geonames.org/4891382/
+US-4699066,Houston,美国,29.76328,-95.36327,4699066,https://www.geonames.org/4699066/
+US-5359777,Irvine,美国,33.66946,-117.82311,5359777,https://www.geonames.org/5359777/
+US-5122432,Ithaca,美国,42.44063,-76.49661,5122432,https://www.geonames.org/5122432/
+US-5261457,Madison,美国,43.07305,-89.40123,5261457,https://www.geonames.org/5261457/
+US-4943629,Medford,美国,42.41843,-71.10616,4943629,https://www.geonames.org/4943629/
+US-4644585,Nashville,美国,36.16589,-86.78444,4644585,https://www.geonames.org/4644585/
+US-5224151,Providence,美国,41.82399,-71.41283,5224151,https://www.geonames.org/5224151/
+US-5391959,San Francisco,美国,37.77493,-122.41942,5391959,https://www.geonames.org/5391959/
+US-5392952,Santa Barbara,美国,34.42083,-119.69819,5392952,https://www.geonames.org/5392952/
+US-5809844,Seattle,美国,47.60621,-122.33207,5809844,https://www.geonames.org/5809844/
+US-4407066,St. Louis,美国,38.62727,-90.19789,4407066,https://www.geonames.org/4407066/
+US-5139865,Stony Brook,美国,40.92565,-73.14094,5139865,https://www.geonames.org/5139865/
+US-4843786,Storrs,美国,41.80843,-72.24952,4843786,https://www.geonames.org/4843786/
+GB-2643743,London,英国,51.50853,-0.12574,2643743,https://www.geonames.org/2643743/
+GB-2640729,Oxford,英国,51.75222,-1.25596,2640729,https://www.geonames.org/2640729/
+NL-2759794,Amsterdam,荷兰,52.37403,4.88969,2759794,https://www.geonames.org/2759794/
+NL-2757345,Delft,荷兰,52.00667,4.35556,2757345,https://www.geonames.org/2757345/
+NL-2756253,Eindhoven,荷兰,51.44083,5.47778,2756253,https://www.geonames.org/2756253/
+NL-2756071,Enschede,荷兰,52.21833,6.89583,2756071,https://www.geonames.org/2756071/
+NL-2755251,Groningen,荷兰,53.21917,6.56667,2755251,https://www.geonames.org/2755251/
+NL-2751792,Leeuwarden,荷兰,53.20271,5.80973,2751792,https://www.geonames.org/2751792/
